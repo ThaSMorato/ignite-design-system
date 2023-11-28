@@ -1,0 +1,14 @@
+{
+ "private": true,
+ "workspaces": [
+  "packages/*"
+ ],
+ "packageManager": "npm@9.6.7",
+ "devDependencies": {
+  "turbo": "^1.10.16"
+ },
+ "scripts": {
+  "dev": "turbo run dev --parallel",
+  "build": "turbo run build"
+ }
+}
