@@ -15,4 +15,6 @@ export const colors = {
   ignite500: '#00875F',
   ignite700: '#015F43',
   ignite900: '#00291D',
+
+  TEST: '#f0f1f2',
 } as const
