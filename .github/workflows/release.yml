@@ -26,7 +26,7 @@ jobs:
 
       - name: Publish to NPM
         id: changeset
-        uses: changeset:action@v1
+        uses: changeset/action@v1
         with:
           publish: npm run release
         env:
