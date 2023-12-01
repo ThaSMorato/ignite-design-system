@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/tokens",
+  "name": "@thasmorato-ignite-ui/tokens",
   "version": "1.0.0",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -11,8 +11,8 @@
     "lint": "eslint src/**/*.ts* --fix"
   },
   "devDependencies": {
-    "@ignite-ui/ts-config": "*",
-    "@ignite-ui/eslint-config": "*",
+    "@thasmorato-ignite-ui/ts-config": "*",
+    "@thasmorato-ignite-ui/eslint-config": "*",
     "typescript": "5.1.6",
     "tsup": "^8.0.1"
   }

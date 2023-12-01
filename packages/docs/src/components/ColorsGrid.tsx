@@ -1,4 +1,4 @@
-import { colors } from '@ignite-ui/tokens'
+import { colors } from '@thasmorato-ignite-ui/tokens'
 import { getContrast } from 'polished'
 
 const getColorByContrast = (color: string) => {
