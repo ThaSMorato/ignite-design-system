@@ -1,5 +1,11 @@
 # @thasmorato-ignite-ui/react
 
+## 1.0.3
+
+### Patch Changes
+
+- resolving size of the input
+
 ## 1.0.2
 
 ### Patch Changes

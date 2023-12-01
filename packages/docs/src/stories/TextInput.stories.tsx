@@ -22,6 +22,18 @@ export default {
       )
     },
   ],
+  args: {
+    size: 'md',
+  },
+  argTypes: {
+    size: {
+      options: ['sm', 'md'],
+      control: 'inline-radio',
+    },
+    prefix: {
+      control: 'text',
+    },
+  },
 } as Meta<TextInputProps>
 
 export const Primary: StoryObj<TextInputProps> = {
