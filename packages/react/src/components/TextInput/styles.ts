@@ -8,7 +8,7 @@ export const TextInputContainer = styled('div', {
   display: 'flex',
   alignItems: 'center',
 
-  variant: {
+  variants: {
     size: {
       sm: {
         padding: '$2 $3',

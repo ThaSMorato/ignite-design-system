@@ -1,5 +1,11 @@
 # @thasmorato-ignite-ui/react
 
+## 1.0.2
+
+### Patch Changes
+
+- typo
+
 ## 1.0.1
 
 ### Patch Changes

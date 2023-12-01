@@ -30,6 +30,13 @@ export const Primary: StoryObj<TextInputProps> = {
   },
 }
 
+export const Small: StoryObj<TextInputProps> = {
+  args: {
+    placeholder: 'Type your name',
+    size: 'sm',
+  },
+}
+
 export const Disabled: StoryObj<TextInputProps> = {
   args: {
     disabled: true,
@@ -40,6 +47,6 @@ export const Disabled: StoryObj<TextInputProps> = {
 export const WithPrefix: StoryObj<TextInputProps> = {
   args: {
     prefix: 'cal.com/',
-    placeholder: 'yourusername',
+    placeholder: 'your-username',
   },
 }
