@@ -1,6 +1,6 @@
 {
   "name": "@thasmorato-ignite-ui/react",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
@@ -10,6 +10,9 @@
     "dev": "tsup src/index.tsx --format esm,cjs --dts --external react --watch",
     "lint": "eslint src/**/*.ts* --fix"
   },
+  "files": [
+    "dist"
+  ],
   "devDependencies": {
     "@thasmorato-ignite-ui/eslint-config": "*",
     "@thasmorato-ignite-ui/tokens": "*",

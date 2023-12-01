@@ -1,5 +1,11 @@
 # @thasmorato-ignite-ui/react
 
+## 1.0.4
+
+### Patch Changes
+
+- adding files in package.json
+
 ## 1.0.3
 
 ### Patch Changes
